@@ -1,7 +1,7 @@
 {
-"DEPLOY_STAGING": true,
+"DEPLOY_STAGING": false,
 "DEPLOY_PRODUCTION": true,
 "CONFIRM_DEPLOY_PRODUCTION": true, 
 "CONFIRM_SWITCH_TRAFFIC": true, 
-"CONFIRMER": "automata"
+"CONFIRMER": "maryefyev,jylipoti"
 }
