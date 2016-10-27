@@ -4,5 +4,5 @@
   "DEPLOY_PRODUCTION": true,
   "CONFIRM_DEPLOY_PRODUCTION": true, 
   "CONFIRM_SWITCH_TRAFFIC": true, 
-  "CONFIRMER": ["asdsad", "automata", "kaufhw"]
+  "CONFIRMER": ["asdsad", "fsa", "kaufhw"]
 }
