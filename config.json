@@ -4,5 +4,5 @@
   "DEPLOY_PRODUCTION": true,
   "CONFIRM_DEPLOY_PRODUCTION": true, 
   "CONFIRM_SWITCH_TRAFFIC": true, 
-  "CONFIRMER": ["asdkuhaisuf", "jylipoti", "dassfdaiuhfgteqw"]
+  "CONFIRMER": ["asdkuhaisuf", "automata", "dassfdaiuhfgteqw"]
 }
