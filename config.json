@@ -3,5 +3,5 @@
 "DEPLOY_PRODUCTION": true,
 "CONFIRM_DEPLOY_PRODUCTION": true, 
 "CONFIRM_SWITCH_TRAFFIC": true, 
-"CONFIRMER": "maryefyev,jylipoti"
+"CONFIRMER": "automata"
 }
